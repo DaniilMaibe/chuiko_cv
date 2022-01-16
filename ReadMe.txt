@@ -1,0 +1,1 @@
+https://daniilmaibe.github.io/chuiko_cv/
