@@ -1088,16 +1088,16 @@ a:focus {
 }
 
 .footer p {
-    color: #222222;
     margin: 0;
+    color: #F6D155;
 }
 
 .footer a {
-    color: #FF6F61;
     font-weight: 600;
+    color: #F6D155;
 }
 
 .footer a:hover {
-    color: #222222;
+    color: #F6D155;
 }
 
